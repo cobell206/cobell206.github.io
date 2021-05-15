@@ -1,9 +1,9 @@
 import React from 'react'
-import ML from '../components/MachineLearning'
+import MLblock from '../components/MachineLearning'
 
 function ML() {
     return (
-        <ML />
+        <MLblock />
     )
 }
 
