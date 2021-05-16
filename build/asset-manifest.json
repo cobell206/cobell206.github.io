@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/static/js/main.812922a4.chunk.js",
+    "main.js.map": "/static/js/main.812922a4.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fd73cf1f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fd73cf1f.js.map",
+    "static/css/2.180cdf56.chunk.css": "/static/css/2.180cdf56.chunk.css",
+    "static/js/2.8b0d63ea.chunk.js": "/static/js/2.8b0d63ea.chunk.js",
+    "static/js/2.8b0d63ea.chunk.js.map": "/static/js/2.8b0d63ea.chunk.js.map",
+    "static/js/3.fdbab0ae.chunk.js": "/static/js/3.fdbab0ae.chunk.js",
+    "static/js/3.fdbab0ae.chunk.js.map": "/static/js/3.fdbab0ae.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.180cdf56.chunk.css.map": "/static/css/2.180cdf56.chunk.css.map",
+    "static/css/main.9d5b29c0.chunk.css.map": "/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.8b0d63ea.chunk.js.LICENSE.txt": "/static/js/2.8b0d63ea.chunk.js.LICENSE.txt",
+    "static/media/Colin.4483db53.jpg": "/static/media/Colin.4483db53.jpg",
+    "static/media/machine_learning.d90ab495.png": "/static/media/machine_learning.d90ab495.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd73cf1f.js",
+    "static/css/2.180cdf56.chunk.css",
+    "static/js/2.8b0d63ea.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.812922a4.chunk.js"
+  ]
+}
